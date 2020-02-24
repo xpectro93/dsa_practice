@@ -1,3 +1,4 @@
+//NOT MINE, just want reference on methods to add to mine later on
 class Node {
   constructor(value) {
     // We want to initialize a Node with a value
